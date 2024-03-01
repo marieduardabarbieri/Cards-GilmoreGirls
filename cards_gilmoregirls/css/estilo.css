@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.geral {
+  display: grid;
+  grid-template-columns: auto auto auto; /* quant. de colunas*/
+}
+
+.container {
+  padding: 40px 40px 80px 40px;
+  margin: 30px;
+  background-color: #d8d5cc;
+  border-radius: 3px;
+}
+
+.paragrafos #respostaSub {
+  display: block;
+}
+
+#subtitulo {
+  font-family: optima;
+}
+
+#respostaSub {
+  display: block;
+}
+
+.paragrafos p {
+  color: #2a181c;
+}
+
+.container img {
+  width: 100%;
+}
+
+h2 {
+  font-family: tahoma;
+}
